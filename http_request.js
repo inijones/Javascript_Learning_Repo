@@ -177,4 +177,6 @@ const renderResponse = (res) => {
     // Manipulates responseField to show the returned JSON.
     responseField.innerHTML = `<pre>${rawJson}</pre>`
   }
+
+  
   
